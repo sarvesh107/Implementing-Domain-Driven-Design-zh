@@ -1,6 +1,6 @@
 # Implementing-Domain-Driven-Design-zh
-
-《实现领域驱动设计》中文翻译
+an amazing project
+Chinese translation of "Realizing Domain Driven Design"
 
 在线阅读：[http://gdut_yy.gitee.io/doc-iddd/](http://gdut_yy.gitee.io/doc-iddd/)
 
